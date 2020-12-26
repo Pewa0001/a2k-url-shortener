@@ -2,7 +2,7 @@
 
 It's a simple URL shortener for NodeJS.
 
-As it's designed for private use, considering the links number won't be very large, A2k uses **TEXT FILE** instead of a database to store links. And it will read all links data to memory when starts.
+ A2k uses **TEXT FILE** instead of a database to store links. And it will read all links data to memory when starts.
 
 Demo https://www.a2k.xyz
 
