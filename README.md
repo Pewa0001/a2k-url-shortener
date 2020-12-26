@@ -11,33 +11,6 @@ Demo https://www.a2k.xyz
 **Hint**  
 Click "shorten it" with meta/ctrl key to ignore existing path and overwrite it.
 
-## Configuration
-
-config.json (the values below are defaults)
-
-```javascript
-{
-    // the text file that saves links data
-    "linksFile": "links.txt",
-
-    // a regex (string form) that tests whether the url is valid
-    "urlRegex": "^\\w+:\\S+$",
-    
-    // a regex (string form) that tests whether the shortened path is valid
-    "pathRegex": ".",
-    
-    // the entrance of this biu
-    // change it to something else if you want to use this biu privately
-    "entrance": "/",
-
-    // redirect url for path not matching any existing records
-    // the path (without leading /) will be added to the value directly
-    "redirect": null,
-    
-    // port to listen, fallbacks to process.env.PORT or 1337
-    "port": 1337
-}
-```
 
 ## API
 
