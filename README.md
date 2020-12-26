@@ -6,7 +6,7 @@ As it's designed for private use, considering the links number won't be very lar
 
 Demo https://www.a2k.xyz
 
-![biu screenshot](/images/screenshot.png?raw=true)
+![a2k screenshot](https://cdn.discordapp.com/attachments/792298559634538529/792510296286822400/unknown.png)
 
 **Hint**  
 Click "shorten it" with meta/ctrl key to ignore existing path and overwrite it.
